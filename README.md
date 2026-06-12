@@ -104,10 +104,3 @@ Full findings and recommendations are presented in the slide deck.
 2. Open the Jupyter notebook to review full analysis  
 3. View the presentation for business insights and recommendations  
 
----
-
-## 10. Notes
-
-- Data is not included due to size/licensing constraints  
-- Analysis was performed in a Kaggle environment  
-- All steps are reproducible from the notebook
