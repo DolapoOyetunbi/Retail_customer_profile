@@ -16,6 +16,7 @@ A detailed business summary, findings, and recommendations are provided in the a
 - Built customer-level profiles using behavioural attributes  
 - Identified high-value segments contributing most to total sales  
 - Examined differences in purchase frequency and basket size  
+- Conducted brand and pack size affinity analysis for the "Mainstream Young Singles/Couples" segment  
 - Delivered business recommendations in an executive slide deck  
 
 ---
@@ -91,8 +92,9 @@ Full findings and recommendations are presented in the slide deck.
 
 ## 8. Files in This Repository
 
-- `analysis.ipynb` → Full analysis workflow  
-- `Customer_profile_analysis.pdf` → Executive presentation with findings and recommendations  
+- [Customer Segmentation & Purchase Behaviour Analysis Notebook](customer-segmentation-purchase-behaviour-analysis.ipynb) → Full analysis workflow  
+
+- [Customer Profile Analysis Presentation](customer_profile_analysis.pdf) → Executive presentation with findings and recommendations
 
 ---
 
