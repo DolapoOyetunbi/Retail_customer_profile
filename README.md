@@ -100,7 +100,6 @@ Full findings and recommendations are presented in the slide deck.
 
 ## 9. How to Use This Project
 
-1. Read the Executive Summary for context  
-2. Open the Jupyter notebook to review full analysis  
+1. Review the Executive Summary above for project context  
+2. Open the Jupyter notebook to explore the full analysis  
 3. View the presentation for business insights and recommendations  
-
